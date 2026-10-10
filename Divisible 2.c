@@ -1,38 +1,6 @@
-//Problem Statement
+//Problem Statement Link: https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-10/challenges/divisible-2-1-1
 
-//You will be given a non-negative integer N, you need to print all numbers from 1 to N that are divisible by both 3 and 7.
 
-//Input Format
-
-//Input will contain N.
-//Constraints
-
-//21 <= N <= 10000
-//Output Format
-
-//Output all numbers from 1 to N that are divisible by both 3 and 7. Don't forget to print a new line after every number.
-//Sample Input 0
-
-//30
-//Sample Output 0
-
-//21
-//Sample Input 1
-
-//50
-//Sample Output 1
-
-//21
-//42
-//Sample Input 2
-
-//100
-//Sample Output 2
-
-//21
-//42
-//63
-//84
 
 #include <stdio.h>
 
