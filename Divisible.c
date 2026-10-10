@@ -1,34 +1,6 @@
-//Problem Statement
+//Problem Statement Link: https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-10/challenges/divisible-4
 
-//You will be given a non-negative integer N, you need to tell if this number is divisible by 3 or not. If it is divisible by 3 output "YES" otherwise output "NO" without the quotation mark.
 
-//Input Format
-
-//Input will contain N.
-//Constraints
-
-//0 <= N <= 10^9
-//Output Format
-
-//Output "YES" or "NO" without the quotation mark according to the question.
-//Sample Input 0
-
-//33
-//Sample Output 0
-
-//YES
-//Sample Input 1
-
-//29
-//Sample Output 1
-
-//No
-//Sample Input 2
-
-//0
-//Sample Output 2
-
-//YES
 
 #include <stdio.h>
 
